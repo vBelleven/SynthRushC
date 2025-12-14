@@ -1,0 +1,1 @@
+gcc main.c ui.c menu.c player.c audio.c network.c text.c config.c map.c enemy.c -o SynthRush.exe -O2 -I C:/raylib/raylib/src -L C:/raylib/raylib/src -lraylib -lopengl32 -lgdi32 -lwinmm
